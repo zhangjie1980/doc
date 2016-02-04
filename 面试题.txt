@@ -1,0 +1,38 @@
+1.Activity的生命周期，以及生命周期各个函数的作用。切换的时候的生命周期
+2.Activity的调用方式？
+3.Activity的启动模式，以及如何组合使用。
+4.Activity的Affinitiy的作用。
+
+5.Service在什么时候使用。
+6.Service的启动方式？
+7.Android的进程优先级。
+8.IntentService？
+9.AIDL。
+10.进程间通讯。
+11.线程间通讯。
+
+12.Broadcast启动方式。
+13.权限
+14.fragment的使用
+15.复杂的UI 如何更好的实现。
+16.内存泄露OOM。
+17.如何处理大量图片。
+18. AsyncTask优缺点。
+19.Message,Handler,Message Queue,Looper
+20.描述自己的项目，UML，技术难点以及解决方案。
+21.Android的数据存储方式。
+22.如何处理不同分辨率。
+23.如何保证service在后台不被kill
+24.onMeasure onlayout onDraw
+25.线程wait(),yelid(),sleep()区别
+26.为什么匿名函数参数要final
+27.finally主要做什么的
+28.面向对象基本概念。
+29.getView的作用（LISTVIEW）
+30.ANR
+31.HTTP HTTPS区别。
+32.onTouchEvent onInterceptTouchEvent
+33.常用的设计模式
+34.fragment
+36.H5
+ 

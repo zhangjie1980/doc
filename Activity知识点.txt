@@ -1,0 +1,2 @@
+{"ver":"0.0.1","apps":[{"name":"lib","ver":"0.0.1","verCode":1,"priority":0,"state":"new","sort":0,"md5":"adlfkjasdlfkajsdfdddsss","url":"http:\/\/www.xxx.com\/app1.zip","icon":"http:\/\/www.xxx.com\/app1.png"},{"name":"test","ver":"0.0.1","verCode":1,"priority":1,"state":"update","sort":1,"lib":"0.0.1","md5":"adlfkjasdlfkajsdfdddsss","url":"http:\/\/www.xxx.com\/app2.zip","icon":"http:\/\/www.xxx.com\/app2.png"}]}
+12-14 11:38:53.005 6265-6282/com.example.zhangji
